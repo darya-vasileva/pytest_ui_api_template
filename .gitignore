@@ -447,7 +447,6 @@ pyrightconfig.json
 *testsdir
 *testsfile
 *testsfiles
-*test
 *testdir
 *testfile
 *testfiles
@@ -466,6 +465,7 @@ pyrightconfig.json
 *lol
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
